@@ -48,7 +48,7 @@ export default function CvComponent() {
 
 			<p className="mb-15">
 				<h2 className="mb-2 mt-6 text-green-600">Accross the Internet</h2>
-				<a href="linkedin.com/in/shariful-textile" className="text-blue-600">LinkedIn</a> &nbsp; &nbsp; <a href="https://github.com/sharifulbb10" className="text-blue-600">GitHub</a>
+				<a href="https://www.linkedin.com/in/shariful-textile" className="text-blue-600">LinkedIn</a> &nbsp; &nbsp; <a href="https://github.com/sharifulbb10" className="text-blue-600">GitHub</a>
 			</p>
 		</div>
 	)
